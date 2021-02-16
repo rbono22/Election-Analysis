@@ -4,12 +4,12 @@
 
 ### Purpose
 I received this data:
-[electResults](electResults.txt)
+[Election Results](electResults.txt)
 
 A Colorado Board of Elections employee asked for support in an audit of a recent local congressional election. The board asked for the total votes, county votes, percentage of votes per county, total number of votes per county, largest county turnout, the percentage of votes and total votes of each individual running for the position, and the winner, the winner's vote count, and the winning percentage of the winner. Below is a file with all of these results.
  
 ## Election Audit Results
-[electAnalysis](electAnalysis.txt)
+[Election Analysis](electAnalysis.txt)
 
 ### How many votes were cast in this congressional election?
 There were 369,7911 votes cast in this congressional election.
