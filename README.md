@@ -3,7 +3,9 @@
 ## Overview of Election Audit
 
 ### Purpose
- 
+I received this data:
+[electResults](electResults.txt)
+
 A Colorado Board of Elections employee asked for support in an audit of a recent local congressional election. The board asked for the total votes, county votes, percentage of votes per county, total number of votes per county, largest county turnout, the percentage of votes and total votes of each individual running for the position, and the winner, the winner's vote count, and the winning percentage of the winner. Below is a file with all of these results.
  
 ## Election Audit Results
