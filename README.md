@@ -4,22 +4,32 @@
 
 ### Purpose
  
-A Colorado Board of Elections employee asked for support in an audit of a recent local congressional election. The board asked for the total votes, county votes, percentage of votes per county, total number of votes per county, largest county turnout, the percentage of votes and total votes of each individual running for the position, and the winner, the winner's vote count, and the winning percentage of the winner.
+A Colorado Board of Elections employee asked for support in an audit of a recent local congressional election. The board asked for the total votes, county votes, percentage of votes per county, total number of votes per county, largest county turnout, the percentage of votes and total votes of each individual running for the position, and the winner, the winner's vote count, and the winning percentage of the winner. Below is a file with all of these results.
  
 ## Election Audit Results
 [electAnalysis](electAnalysis.txt)
+
 ### How many votes were cast in this congressional election?
+There were 369,7911 votes cast in this congressional election.
+
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+
 ### Which county had the largest number of votes?
+Denver had the largest number of votes.
+
 ### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+The winning candidate was Diana DeGette with a vote count of 272,892. Diana received 73.9% of the total votes.
 
 ## Election Audit Summary
 
-### Advantages and Disadvantages of Refactoring Code in General
+After further analysis, I believe there are two instances that the script can be modified to incorporate other elections with further modifications. The first instance is by adding the political party of the individuals running for the local congressional election. Additionally, the voters cna input their political affiliation as well. By adding both of these instances, we can collect and analyze data to see if there is a political preference and/or a political majority for a favorite person and party to win local congressional election.
 
-In general, the advantage of refractoring code is that safe and timesaving to not need to worry about syntax. A lot of refractoring requires copy and pasting old code. Since most of the code was already provided, refactoring was a safe and timesaving maneuver to help Steve and his family obtain their results. On the flip side, one disadvantage of refactoring code is that new logic requires new and untested logic, which can be time consuming as it requires discipline to have a deeper understanding of your old logic in order to build new logic. 
-
-### Advantages and Disadvantages of the Original and Refactored VBA Script
-
-The advantages of the original VBA script is that it required me to deeply understanding each line of code I wrote, and to get used to the syntax. However, this was greatly time consuming, and a difficult process to become oriented with VBA Scripts. On the otehr hand, the advantages of reactoring VBA scripts is that I was able to better organize my code and it took me a lot less time since I only needed to rename variables. However, I felt like this process hindered my understanding of VBA scripts as I copy and pasted my old code blindly. Overall I think refactoring was a more efficient process, but I would have most likely learned more and bettered myself and my understanding of VBA scripts by starting from scratch.
